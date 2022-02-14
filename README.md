@@ -1,6 +1,6 @@
 # About
 
-病院薬剤師歴１２年、趣味プログラマ歴１０年
+主に病院で薬剤師をしています。
 - [twitter](https://www.twitter.com/Guttyo)
 
 # MyApp
