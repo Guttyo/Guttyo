@@ -1,6 +1,6 @@
 # About
 
-主に病院で薬剤師をしています。
+主に病院で薬剤師をしたり、コードを書いたりしています。
 - [twitter](https://www.twitter.com/Guttyo)
 
 # MyApp
