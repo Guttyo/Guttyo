@@ -1,4 +1,4 @@
-# About
+# About Me
 
 主に病院で薬剤師をしたり、コードを書いたりしています。
 - [twitter](https://www.twitter.com/Guttyo)
