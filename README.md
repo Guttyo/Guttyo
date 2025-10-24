@@ -16,16 +16,19 @@
 - [調剤電卓](https://apps.apple.com/jp/app/%E8%AA%BF%E5%89%A4%E9%9B%BB%E5%8D%93/id400743343)
 
 
-# Blogs(未公開記事含む)
+- [Guttyo Lab](https://blog.guttyo.jp/) - 公式ブログ
+<!-- - [薬剤師ITラボ](https://www.yakuzaishi.app/) -->
 
-## 医療とITについて
-- [医療ITラボ|薬剤師による医療者のためのIT活用ガイド・ITリテラシーを高めてAI時代を楽しもう！](https://www.yakuzaishi.app/)
+## 📝 Knowledge Base
 
-## 薬剤師のキャリアについて
-- [キャリアの処方箋|薬剤師転職・副業・ITで描く未来の知識箱](https://career.yakuzaishi.app/)
+このリポジトリでは、医療とITに関する「ゆるい読み物」として、日々の思考や学びを記事化しています。
 
-## 日記等
-- [Guttyo Lab](https://blog.guttyo.jp/)
+👉 **[Articles](/articles)** - 思考と知識のアーカイブ
+
+カテゴリ:
+- 🏥 [Medical](/articles/medical) - 医療・薬剤関連
+- 💻 [IT](/articles/it) - 技術・プログラミング
+- 📌 [Misc](/articles/misc) - その他雑記
 
 # Articles
 
