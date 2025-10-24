@@ -10,8 +10,19 @@
 
 # Blogs
 
-- [Guttyo Lab](https://blog.guttyo.jp/)
+- [Guttyo Lab](https://blog.guttyo.jp/) - 公式ブログ
 <!-- - [薬剤師ITラボ](https://www.yakuzaishi.app/) -->
+
+## 📝 Knowledge Base
+
+このリポジトリでは、医療とITに関する「ゆるい読み物」として、日々の思考や学びを記事化しています。
+
+👉 **[Articles](/articles)** - 思考と知識のアーカイブ
+
+カテゴリ:
+- 🏥 [Medical](/articles/medical) - 医療・薬剤関連
+- 💻 [IT](/articles/it) - 技術・プログラミング
+- 📌 [Misc](/articles/misc) - その他雑記
 
 # Articles
 
