@@ -32,6 +32,7 @@ articles/
 ### Medical（医療・薬剤）
 
 - [2025-10-24: 薬剤師とAIの未来 - 仕事はなくなるのか？活用事例とデメリットを徹底解説](medical/2025-10-24-pharmacist-ai-guide.md)
+- [2025-10-24: 薬剤師のためのAI活用ガイド - 日常業務を変える実践的アプローチ](medical/2025-10-24-ai-practical-guide.md)
 
 ### IT（技術・プログラミング）
 
