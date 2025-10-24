@@ -78,7 +78,7 @@ Web開発     ▓▓▓▓▓▓▓░░░  70%
 ### [調剤電卓](https://apps.apple.com/jp/app/%E8%AA%BF%E5%89%A4%E9%9B%BB%E5%8D%93/id400743343)
 📅 **2010年11月4日 公開**
 
-薬剤師のための調剤計算アプリケーション。散剤・水剤の調剤計算を素早く正確に行うことができます。
+薬剤師のための調剤計算アプリケーション。腎機能や体表面積の計算を早く正確に行うことができます。
 
 - ⚡ 高速な計算機能
 - 📊 調剤業務の効率化
@@ -117,6 +117,21 @@ Web開発     ▓▓▓▓▓▓▓░░░  70%
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Guttyo&theme=nord_bright)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Guttyo&theme=nord_bright)
+
+</div>
+
+---
+
+## 💝 Support My Work
+
+医療系アプリの開発を継続するため、ご支援をお願いしています。
+いただいた支援は、開発環境（MacBook Pro等）の購入・維持に使用させていただきます。
+
+<div align="center">
+
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Guttyo)
+
+*あなたのサポートが、より良い医療アプリの開発を支えます*
 
 </div>
 
