@@ -58,12 +58,12 @@ Web開発     ▓▓▓▓▓▓▓░░░  70%
 ### [CTCAE v5.0 日本語訳JCOG版 (日/英)](https://apps.apple.com/jp/app/id1505294578)
 📅 **2025年10月17日 公開**
 
-がん治療における有害事象の評価基準（CTCAE v5.0）を日英両言語で提供する最新版アプリケーション。
+がん治療における有害事象の評価基準（CTCAE v5.0）を日英両言語で提供するアプリケーション。
 
-- 📖 日本語・英語対応（最新版 v5.0）
+- 📖 日本語・英語対応（v5.0版）
 - 🔍 高速検索機能搭載
 - 👨‍⚕️ 医療従事者向け専門ツール
-- 🆕 最新の評価基準に対応
+- 🚀 **現在、最新版のCTCAE v6.0アプリ開発に取り組んでいます**
 
 ### [CTCAE v4.0 日本語訳JCOG版 (日/英)](https://apps.apple.com/jp/app/id576215567)
 📅 **2012年11月13日 公開**
@@ -154,8 +154,6 @@ Web開発     ▓▓▓▓▓▓▓░░░  70%
 <div align="center">
 
 ### 💡 "Technology should serve healthcare, not replace the human touch."
-
-![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 *Thanks for visiting! Feel free to explore my repositories and reach out if you'd like to collaborate.*
 
