@@ -1353,10 +1353,10 @@ Step 5: Claudeで選んだ論文を要約（1時間）
 4. **論理構造の画一性** - AIは常に同じ構造
 
 **主要AI検出ツールの精度**:
-- GPTZero: 85-95%
-- Turnitin: 90-95%
-- Copyleaks: 80-90%
-- 生成AIチェッカー: 74-85%
+- GPTZero: 85-95%（純粋AIコンテンツで91-100%、編集済みで70-85%）
+- Turnitin: 85-95%（純粋AIで98%以上、パラフレーズで10%程度）
+- Copyleaks: 80-90%（公式98%以上、実際のパフォーマンスは変動）
+- 生成AIチェッカー: 74-85%（日本語特化）
 
 ### 5.2 検出されやすい使い方（NG）
 
@@ -1650,13 +1650,44 @@ A: **絶対にダメです**。
 
 ## 参考文献
 
+### 学術研究・ガイドライン
+
 1. **大阪公立大学 (2024).** "生成AIは学術情報収集の救世主となるのか? 医療分野での有用性を検証"
 
 2. **日本製薬工業協会 (2024).** "メディカルライターのための生成AI活用のヒント"
 
-3. **Nature Publishing Group (2025).** "Guidelines for the use of AI in research"
+3. **Nature Publishing Group (2025).** "Artificial Intelligence (AI) Policy - Nature Portfolio Editorial Policies"
+   - LLMは著者になれない
+   - AI使用はMethods欄に記載必須
+   - AI生成画像・動画は原則不可
 
 4. **ICMJE (2024).** "Recommendations for the Conduct, Reporting, Editing, and Publication of Scholarly Work - AI Use"
+
+5. **NEJM AI (2025).** "Generative AI in Medicine — Evaluating Progress and Challenges"
+
+### AI検出ツールの精度
+
+6. **GPTZero (2025).** "GPTZero 2025 Benchmarks: How we detect ChatGPT o1"
+   - 公式主張: 98%+の精度
+   - 独立テスト: 純粋AIで91-100%、編集済みで85-95%
+
+7. **Turnitin (2025).** "AI writing detection model"
+   - 公式主張: 98%の精度、<1%の偽陽性
+   - 実際: 純粋AIで98%以上、パラフレーズで大幅に低下
+
+8. **Copyleaks (2025).** "AI Detector Most Accurate by 3rd-Party Studies"
+   - 公式主張: 98%以上の精度
+   - 独立テスト: 実際のパフォーマンスは変動
+
+### AIモデル公式情報
+
+9. **OpenAI (2025).** "Introducing GPT-5" - 2025年8月7日リリース
+
+10. **Anthropic (2025).** "Introducing Claude Sonnet 4.5" - 2025年9月29日リリース
+
+11. **Anthropic (2025).** "Claude Opus 4.1" - 2025年8月5日リリース
+
+12. **Google DeepMind (2025).** "Gemini 2.5: Our most intelligent AI model" - 2025年3月リリース
 
 ---
 
