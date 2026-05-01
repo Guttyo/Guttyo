@@ -1,5 +1,7 @@
 # Guttyo
 
+Building AI tools that augment pharmacist work | Selected for Anthropic Hackathon (top 2.4% of 20K)
+
 **Pharmacist | iOS Developer | Blogger**
 
 病院で薬剤師として働きながら、テクノロジーとヘルスケアの交差点で活動しています。
