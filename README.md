@@ -16,6 +16,13 @@ Building AI tools that augment pharmacist work | Selected for Anthropic Hackatho
 
 医療現場で活用できるiOSアプリを開発・公開しています。
 
+### [SoapVox - 薬剤師の音声薬歴メモ](https://apps.apple.com/jp/app/soapvox/id6761394388)
+**2026年7月10日 公開**
+
+服薬指導後の振り返りを声で残し、SOAP形式の薬歴下書きに整える薬剤師向けiOSアプリ。録音・文字起こし・SOAP整理を端末内で処理し、音声や薬歴テキストを外部サーバーへ送信しません。
+
+🌐 [公式サイト](https://www.yakuzaishi.app/soapvox/)
+
 ### [CTCAE v5.0 日本語訳JCOG版 (日/英)](https://apps.apple.com/jp/app/id1505294578)
 **2025年10月17日 公開**
 
