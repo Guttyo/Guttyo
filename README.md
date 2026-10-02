@@ -52,7 +52,7 @@ Building AI tools that augment pharmacist work | Selected for Anthropic Hackatho
 
 
 **日記等**
-📓 [Guttyo Lab](https://blog.guttyo.jp/) - 日々の気づきや学びを記録
+📓 [Guttyo Lab](https://blog.guttyo.jp/) - 日々の気づきや学びを記録(とはいえ、あまり更新できていない。)
 
 ### 執筆記事
 
