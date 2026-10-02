@@ -71,6 +71,12 @@ Building AI tools that augment pharmacist work | Selected for Anthropic Hackatho
 
 ---
 
+## Internet Archaeology
+
+🗿 [My old PukiWiki profile (2013)](https://wiki.onakasuita.org/pukiwiki/?guttyo) - 医学・薬学、Webデザイン、Mac/Windows開発、自作PC、iPhoneなど。当時の興味が、今の医療×ITの活動につながっています。
+
+---
+
 ## GitHub Stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guttyo&theme=nord_bright)
