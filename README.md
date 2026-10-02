@@ -48,10 +48,12 @@ Building AI tools that augment pharmacist work | Selected for Anthropic Hackatho
 
 
 **医療とIT・キャリアについて**
+
 🏥 [Pharma Tech Career Lab](https://www.yakuzaishi.app/) - 薬剤師による医療者のためのIT活用キャリアガイド・ITリテラシーを高めてAI時代を楽しもう！
 
 
 **日記等**
+
 📓 [Guttyo Lab](https://blog.guttyo.jp/) - 日々の気づきや学びを記録(とはいえ、あまり更新できていない。)
 
 ### 執筆記事
